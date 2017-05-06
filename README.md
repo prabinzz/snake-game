@@ -1,8 +1,8 @@
 # snake-game
 A simple snake game cteated using p5.js framework .
 
-**** How to open?
+### How to open?
  - Clone this git.
- - Extract if you colne this git as a zip file.
+ - Extract it if you have colne this git as a zip file.
  - Make sure that you have a working browser and java Script enabled in it.
  - Browse to _ index.html _ and run it.
