@@ -32,6 +32,7 @@ function draw() {
 	
 	// show food ;
 	rect(food.x,food.y,scl,scl).fill(255,255,255);
+	// text
 	textSize(15);
 	fill(200);
 	text("http://www.github.com/prabinzz",width/1.60,height-19);
